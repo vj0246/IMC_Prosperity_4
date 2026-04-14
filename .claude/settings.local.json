@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:prosperity.imc.com)",
+      "WebSearch",
+      "WebFetch(domain:medium.com)"
+    ]
+  }
+}
